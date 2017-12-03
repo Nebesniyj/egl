@@ -1,10 +1,10 @@
 
 
 
-TICKER: EGO
+TICKER: EGL
 Stealth Encrypted Messages
 Stealth Addresses (based on shadowcash)
-FULL POS
+POW+POS
 MAX SUPPLY: 86400000
 POS: 8%
 Coinbase Maturity: 30
