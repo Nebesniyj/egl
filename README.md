@@ -26,7 +26,7 @@ Block Reward: 100 EGL
 
 
 
-ù
+
 
 
 
